@@ -1,0 +1,4 @@
+server:
+  port: 11520
+  servlet:
+    context-path: /student
